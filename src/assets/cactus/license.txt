@@ -1,0 +1,11 @@
+Model Information:
+* title:	CactusBunny Plushpon
+* source:	https://sketchfab.com/3d-models/cactusbunny-plushpon-0d9f4db0781c4b1ba79a3a529b927102
+* author:	Tomoe_512 (https://sketchfab.com/Tomoe_512)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CactusBunny Plushpon" (https://sketchfab.com/3d-models/cactusbunny-plushpon-0d9f4db0781c4b1ba79a3a529b927102) by Tomoe_512 (https://sketchfab.com/Tomoe_512) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
