@@ -73,4 +73,3 @@ Give credit to any resources, tutorials, or assets used in your project. If you 
 ---
 
 I hope you enjoy exploring my second Three.js project! I had a great time building it and experimenting with various 3D elements. If you have any questions or feedback, feel free to reach out. Happy coding!
-```
