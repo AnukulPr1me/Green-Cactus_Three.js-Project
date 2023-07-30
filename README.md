@@ -1,6 +1,6 @@
 # Green Cactus_Three.js Project
 
-Welcome to my second Three.js project! In this project, I've taken my skills with Three.js to the next level to create an even more immersive and interactive 3D scene. This project showcases advanced 3D models, stunning visual effects, and captivating user interactions.
+Welcome to my second Three.js project! In this project, I've taken my skills with Three.js to the next level to create an even more immersive and interactive 3D scene. This project showcases Cactus 3D models, stunning visual effects, and captivating user interactions.
 
 ## Getting Started
 
